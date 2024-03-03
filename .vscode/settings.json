@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "reqwest",
+        "tauri",
+        "Tauri"
+    ],
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    }
+}
